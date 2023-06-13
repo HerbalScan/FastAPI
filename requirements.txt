@@ -3,3 +3,5 @@ numpy
 uvicorn
 image
 tensorflow-cpu
+python-multipart
+firebase-admin
